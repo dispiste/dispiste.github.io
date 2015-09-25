@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/cesar/projects/osm/icons/osm-school2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="osm-school4.svg">
+   sodipodi:docname="osm-school5.svg">
   <defs
      id="defs4">
     <clipPath
@@ -137,16 +137,5 @@
        id="rect4040-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Capa"
-     style="opacity:0.36862745;display:none">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       d="m 10.5625,3.25 -3.53125,1.625 0,3.21875 L 11.625,5.9375 10.5625,3.25 z"
-       id="rect4036-5-9"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
